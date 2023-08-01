@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Villaverde de Guadalimar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-31T14:22:42.409Z",
+      "notes": "asd",
+      "position": {
+        "lat": "38.44498466889473",
+        "lng": "-2.521520921016631"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Mabinay",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-07-31T14:34:24.120Z",
+      "notes": "",
+      "position": {
+        "lat": "9.752370139173285",
+        "lng": "122.92051791100933"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Garcirrey",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-31T15:20:44.606Z",
+      "notes": "",
+      "position": {
+        "lat": "40.88029480552824",
+        "lng": "-6.061283088905976"
+      },
+      "id": 98443215
+    }
+  ]
+}
